@@ -30,6 +30,21 @@ def draw_line():
             glVertex2f(click[0], click[1])
         glEnd()
 
+def draw_quad():
+    glBegin(GL_QUADS)
+    glVertex2f(100.0, 800.0)
+    glVertex2f(200.0, 800.0)
+    glVertex2f(200.0, 700.0)
+    glVertex2f(100.0, 700.0)
+    glEnd()
+
+def draw_triangle():
+    glBegin(GL_TRIANGLES)
+    glVertex2f(500.0, 200.0)
+    glVertex2f(400.0, 373.21)
+    glVertex2f(600.0, 373.21)
+    glEnd()
+
 done = False
 init_ortho()
 clicks = []
@@ -48,7 +63,10 @@ while not done:
         draw_point(click[0], click[1], 1)
 
     draw_line()
-    draw_point(screen_width/2, screen_height/2, 15)
+    draw_point(screen_width/2, screen_height/2, 15) #dividindo esses valores por 2 posiciona o ponto no centro
+    draw_quad()
+    draw_triangle()
+
     pygame.display.flip()
     pygame.time.wait(10)
 
