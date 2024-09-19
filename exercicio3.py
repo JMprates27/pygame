@@ -9,7 +9,7 @@ screen_width = 1200
 screen_height = 900
 
 screen = pygame.display.set_mode((screen_width, screen_height), DOUBLEBUF | OPENGL)
-pygame.display.set_caption("Triangulo Movel")
+pygame.display.set_caption("Exercicio 3")
 
 
 def init_ortho():
