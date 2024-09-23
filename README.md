@@ -35,4 +35,5 @@ Exercício 8
 -
 Primeiramente pensamos em como fazer os quadrados e para isso usamos 2 loops for, um para o Y e outro para o X.
 Depois procuramos as cores que mais se pareciam com as imagens e criamos uma lista com a ordem que elas aparecem.
-<img src="/assets/8.png">
+
+<img src="/assets/8.png" width="500" height="600">
