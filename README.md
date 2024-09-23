@@ -1,27 +1,27 @@
 Exercício 1
 -
 
-<img src="/assets/1.png" width="300" height="300">
+<img src="/assets/1.gif" width="300" height="300">
 
 Exercício 2
 -
 
-<img src="/assets/2.png" width="300" height="300">
+<img src="/assets/2.gif" width="300" height="300">
 
 Exercício 3
 -
 
-<img src="/assets/3.png" width="300" height="300">
+<img src="/assets/3.gif" width="300" height="300">
 
 Exercício 4
 -
 
-<img src="/assets/4.png" width="300" height="300">
+<img src="/assets/4.gif" width="300" height="300">
 
 Exercício 5
 -
 
-<img src="/assets/5.png" width="300" height="300">
+<img src="/assets/5.gif" width="300" height="300">
 
 Exercício 6
 -
