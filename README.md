@@ -39,3 +39,10 @@ Exercício 7
 Para esse exercicio nos utilizamos a mesma base do exercicio 6 e acrescentamos mais detalhes para modificar o desenho.
 
 <img src="/assets/7.png" width="300" height="500">
+
+Exercício 8
+-
+Primeiramente pensamos em como fazer os quadrados e para isso usamos 2 loops for, um para o Y e outro para o X.
+Depois procuramos as cores que mais se pareciam com as imagens e criamos uma lista com a ordem que elas aparecem.
+
+<img src="/assets/8.png" width="300" height="300">
